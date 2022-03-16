@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact bachelors in chemical engineering 
 
 <img src="https://github-readme-stats.vercel.app/api?username=98rahul&&show_icons=true&title_color=462525&icon_color=212121&text_color=462525&bg_color=dbdbdb" />
+
 ### Languages and Tools
