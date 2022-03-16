@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-![javascript](https://user-images.githubusercontent.com/71221556/158528302-125a349d-4065-4fe0-a478-70c9403340a1.png)
