@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=98rahul&&show_icons=true&title_color=462525&icon_color=212121&text_color=462525&bg_color=dbdbdb"  />
 
 ### Languages and Tools
-<img src="https://user-images.githubusercontent.com/71221556/158527625-1b301244-7ca0-43b9-8d26-7954526bab4e.png" height='100px' width="100px />
 
+![javascript](https://user-images.githubusercontent.com/71221556/158528302-125a349d-4065-4fe0-a478-70c9403340a1.png height='100px' width="100px )
