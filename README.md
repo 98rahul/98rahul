@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React-Native
 - 💬 Ask me about CSS3
 - 📫 How to reach me [Twitter- @Ra98lF](https://twitter.com/Ra98lF)
-[codepen-@98rahul](https://codepen.io/98rahul)[rahulraj94316@gmail.com]
+[codepen-@98rahul](https://codepen.io/98rahul) || rahulraj94316@gmail.com
 - 😄 Pronouns softTech
 - ⚡ Fun fact bachelors in chemical engineering 
 
