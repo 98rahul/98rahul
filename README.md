@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ReactJS, attractive UI using JSX🔥
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning MERN
 - 💬 Ask me about CSS3
 - 📫 How to reach me [Twitter- @Ra98lF](https://twitter.com/Ra98lF)
 [codepen-@98rahul](https://codepen.io/98rahul) || Email- 17755@nith.ac.in
