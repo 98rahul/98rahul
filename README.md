@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ReactJS, attractive UI  using Tailwind🔥
+- 🔭  JAVASCRIPT🔥
 - 🌱 I’m currently learning MERN
 - 💬 Ask me about CSS3
 - 📫 How to reach me [Twitter- @Ra98lF](https://twitter.com/Ra98lF)
