@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image](https://github.com/98rahul/98rahul/assets/71221556/91adf90c-ed85-494f-bec1-d5756bc7b7b0)
+![image](https://github.com/98rahul/98rahul/assets/71221556/a2cee8bc-068b-4508-873d-f1ec9820f0a4)
+
 
 <!--
 **98rahul/98rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
