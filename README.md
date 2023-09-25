@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact Bachelors in Chemical Engineering 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=98rahul&&show_icons=true&title_color=462525&icon_color=212121&text_color=462525&bg_color=dbdbdb"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=98rahul&&show_icons=true&title_color=462525&icon_color=212121&text_color=462525&bg_color=dbdbdb"  /> -->  
 Note:- Lot of private repo--😉😸
 
 ### Languages and Tools
