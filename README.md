@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about CSS3
 - 📫 How to reach me [Twitter- @Ra98lF](https://twitter.com/Ra98lF) ||
 [codepen-@98rahul](https://codepen.io/98rahul) || [Email](17755nith@gmail.com) || [stack overflow](https://stackoverflow.com/users/19042385/rahul-raj)
-- 😄 Pronouns softTech
+ <!-- - 😄 Pronouns softTech
 - ⚡ Fun fact Bachelors in Chemical Engineering 
-
+Note:- Lot of private repo--😉😸 -->
+-  ## 🏁 I’m looking to collaborate on open source/commercial projects
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=98rahul&&show_icons=true&title_color=462525&icon_color=212121&text_color=462525&bg_color=dbdbdb"  /> -->  
-Note:- Lot of private repo--😉😸
+
 
 ### Languages and Tools
 
