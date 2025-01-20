@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with ...
 Here are some ideas to get you started:
 -->
-- 🔭  JAVASCRIPT🔥 PYTHON 🐍
+- 🔭  JAVASCRIPT🔥 PYTHON 🐍 GO 
 - 🌱 I’m currently learning MERN 
 - 💬 Ask me about CSS3
 - 📫 How to reach me [Twitter- @Ra98lF](https://twitter.com/Ra98lF) ||
